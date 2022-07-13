@@ -98,3 +98,9 @@ C:\Users\Vika\projects-c#\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ToDo
 C:\Users\Vika\projects-c#\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ref\ToDoList.Tests.dll
 C:\Users\Vika\projects-c#\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ToDoList.Tests.pdb
 C:\Users\Vika\projects-c#\ToDoList.Solution\ToDoList.Tests\obj\Debug\net5.0\ToDoList.Tests.genruntimeconfig.cache
+C:\Users\Vika\projects-c#\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.Views.dll
+C:\Users\Vika\projects-c#\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.Views.pdb
+C:\Users\Vika\projects-c#\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.deps.json
+C:\Users\Vika\projects-c#\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.runtimeconfig.json
+C:\Users\Vika\projects-c#\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
+C:\Users\Vika\projects-c#\ToDoList.Solution\ToDoList.Tests\bin\Debug\net5.0\ToDoList.exe
