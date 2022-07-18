@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6coXtUls8ysx1N2LJwocDdKUjIDKfqkKMEFzjQ0WFtiguZ0OOOT/fRGzYuU1zlKIItZKkTCzkCISg93P/fMSFg==",
+  "dgSpecHash": "wKQVcZVh2EJWdtJmb7+buWY9L9T/HPW2nqA0gMlMsOGJHPxGS/6kZUE5MqW6pChhQTbjALNWCdaV44m3DpR5hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vika\\projects-c#\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Vika\\projects-C#\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vika\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\Vika\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -17,6 +17,7 @@
     "C:\\Users\\Vika\\.nuget\\packages\\microsoft.win32.registry\\4.0.0\\microsoft.win32.registry.4.0.0.nupkg.sha512",
     "C:\\Users\\Vika\\.nuget\\packages\\mstest.testadapter\\1.3.2\\mstest.testadapter.1.3.2.nupkg.sha512",
     "C:\\Users\\Vika\\.nuget\\packages\\mstest.testframework\\1.3.2\\mstest.testframework.1.3.2.nupkg.sha512",
+    "C:\\Users\\Vika\\.nuget\\packages\\mysqlconnector\\0.69.0\\mysqlconnector.0.69.0.nupkg.sha512",
     "C:\\Users\\Vika\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Vika\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Vika\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
