@@ -15,6 +15,11 @@
 @foreach (Item item in Model)
 {
   <li>@Html.ActionLink($"{item.Description}", "Details", new { id = item.ItemId }) </li>
+  @Html.Label("isDone")
+  <input type="checkbox" id="IsDone" name="IsDone" value="@item.ItemId" @if(item.IsDone) { <text> checked </text>
+}/>
+
 }
+
 <p>@Html.ActionLink("Add new item", "Create")</p>
 <p>@Html.ActionLink("Home", "Index", "Home")</p>
